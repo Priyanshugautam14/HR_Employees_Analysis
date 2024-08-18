@@ -1,0 +1,21 @@
+Case Studies
+1. Employee Report for Engineering and Marketing Departments
+Case Study: The HR department needs to generate a report detailing employees who were hired after January 1, 2018, specifically in the Engineering and Marketing departments. This report will help the HR team understand recent hiring trends and plan future recruitment efforts accordingly.
+
+2. Analyzing Salary Distribution Across Departments
+Case Study: The finance team is interested in analyzing the salary distribution within the company to ensure equitable compensation practices. They require a detailed view showing the minimum, maximum, and average salaries for each department, focusing on departments where the average salary exceeds $60,000. This analysis will assist in budget planning and salary adjustments.
+
+3. Identifying Employees Without Project Assignments
+Case Study: The project management office wants to identify employees who are not currently assigned to any projects. This information will be used to reallocate resources effectively and ensure that all employees are contributing to the company’s ongoing projects.
+
+4. List of Newly Hired Employees with High Salaries
+Case Study: The HR department is preparing for upcoming salary reviews and needs a list of employees who were hired in the last 6 months and have a salary greater than $70,000. This list will help HR focus on reviewing the compensation packages of recent high earners.
+
+5. Salary Comparison by Employee Tenure
+Case Study: To evaluate the impact of employee tenure on salary, the HR team wants to compare the average salaries of employees with more than 5 years at the company against those with 5 years or less. This comparison will provide insights into compensation trends based on employee experience.
+
+6. Top Earners Recognition
+Case Study: The company is planning an employee recognition program and wants to highlight the top earners in each department. The goal is to identify the highest-paid employee in each department for recognition and potential reward.
+
+7. Long-Service Award List
+Case Study: The company’s HR department is organizing a long-service awards event and needs to compile a list of employees who were hired before January 1, 2015, and are still active. This list will be used to recognize and celebrate employees with significant tenure.
